@@ -28,9 +28,11 @@
 
 <img width="1256" height="479" alt="изображение" src="https://github.com/user-attachments/assets/ecb70dd6-fb7d-4a96-ac64-9d28f35343b4" />
 
-## Запуск из терминала
+## Запуск
 
-В каталоге с `SmartBuilding.csproj` выполните:
+- Скачать проект архивом,
+- распокавать в удобном месте,
+- открыть консоль(PowerShell или Bash),
+- перейти в папку с проектом через команду cd "путь к файлу",
+- выполнить команду dotnet run
 
-bash
-dotnet run
